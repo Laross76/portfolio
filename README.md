@@ -1,5 +1,8 @@
 # Hello, world!
 ## Светлана Россихина, QA-инженер на Python, JavaScript.
++7 (916) 6268616
+snr1976@inbox.ru
+резюме: https://docs.google.com/document/d/1HDIaTL5S2ElHgqL9xx0yXNNDBJYumfY9pqJFx9rL1gk/edit?usp=sharing
 
 ## Ключевые компетенции:
  Windows, Linux, Python, JavaScript, MySQL, mariadb, DBeaver CE, Pytest, Playwright, Puppeetr, Selenium, Cypress,Cucumber, Appium, Docker, Docker-compose, GitHub Actions, Git Bash, Replit, Charles, Android Studio, JMeter, Postman, Visual Studio Code, Dev Tools, Espresso, GitHub.
