@@ -19,6 +19,7 @@ snr1976@inbox.ru
 - Ручное тестирование веб-приложений https://drive.google.com/drive/folders/1RLQSe8iNWnGrLnMCLBzWfImhRbJdwvHY?usp=sharing
 
 ## Документы:
+- Диплом https://drive.google.com/file/d/1tzlDipLNhMDdWMa6EUG84CClFaNwbbQO/view?usp=sharing
 - Инженер по тестированию на python: расширенный курс https://drive.google.com/file/d/1I0fYaBe-kVAzM_qCTtIJYAGpylTF0Iga/view?usp=sharing
 - Тестирование безопасности https://drive.google.com/file/d/1kcUvk5CXLuavYRFF5StBOBLRWF3mgqKN/view?usp=sharing
 - Тестирование производительности https://drive.google.com/file/d/1SBSEfzVTkwb2xGr5IBsGz0qIhtkVATDL/view?usp=sharing
